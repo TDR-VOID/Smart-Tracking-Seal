@@ -5,4 +5,4 @@
 <br />
 
 > [!NOTE]
-> All operational information for the device is detailed in the **User Manual** & **Project Report** PDF documents.
+> All operational information for the device is detailed in the **User Manual** PDF documents.
