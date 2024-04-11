@@ -24,13 +24,13 @@ The **"CargoGauard"** app was developed using Android Studio. **Firebase Realtim
 </details>
 
 ## Features
-- **Real-time Location Tracking :** Disconnected place detection
-- **Mobile Application Integration :** Customized App
-- **Lock State Verification :** SMS notification & App Notification
+- **Real-time Location Tracking:** Disconnected place detection
+- **Mobile Application Integration:** Customized App
+- **Lock State Verification:** SMS notification & App Notification
 - **Manage Truck Information:** Track and update truck details remotely
 
 ## User Benefits
-- **Easy Data Handle**
+- **Easy Data Handling**
   - Truck information, driver details, and item specifics can be easily managed and viewed using the cloud database.
   - Track multiple locks using the mobile app.
   <br />
