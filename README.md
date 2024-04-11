@@ -3,9 +3,10 @@
 ## Overview
 
 ## Features
-- **REAL-TIME LOCATION TRACKING :** Disconnected place detection
-- **MOBILE APPLICATION INTEGRATION :** Customized APP
-- **LOCK STATE VERIFICATION :** SMS notification & APP Notification
+- **Real-time Location Tracking :** Disconnected place detection
+- **Mobile Application Intergration :** Customized APP
+- **Lock State Verification :** SMS notification & APP Notification
+- 
 ## Components Used
 
 - Atmega328P Microcontroller.
