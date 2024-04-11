@@ -45,7 +45,7 @@ The **"CargoGauard"** app was developed using Android Studio. **Firebase Realtim
   <br />
 - **Support and Maintenance**
   - 24/7 Technical support.
-  - Mobile APP update, continuous improvement and bug fixes.
+  - Mobile App updates, continuous improvement and bug fixes.
   <br />
     
 ## Components Used
