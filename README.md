@@ -24,6 +24,7 @@
   <br />
 - **Support and Maintenance**
   - 24/7 Technical support.
+  - Mobile APP update, continuous improvement and bug fixes.
   <br />
     
 ## Components Used
