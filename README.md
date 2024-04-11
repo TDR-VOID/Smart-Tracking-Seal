@@ -11,7 +11,16 @@ The **"CargoGauard"** app was developed using Android Studio. **Firebase Realtim
 
 <details>
 <summary>CargoGuard App Screenshots</summary>
-<img src="Screenshots/Device.jpeg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Welcome Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Register Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Login Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Home Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Navigation Drawer.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/About Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Truck Tracking Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Google Map Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/Cargo Management Page.jpg" alt="CargoGuard App Screenshots" width="300" />
+<img src="Screenshots/App Icon View.jpg" alt="CargoGuard App Screenshots" width="300" />
 </details>
 
 ## Features
