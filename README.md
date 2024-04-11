@@ -5,7 +5,7 @@ The **Smart Tracking Seal** is an innovative electronic device designed to enhan
 
 <details>
 <summary>Physical View of the Device</summary>
-<img src="Screenshots/Device.jpg" alt="Physical View of the Device" width="300" />
+<img src="Screenshots/Device.HEIC" alt="Physical View of the Device" width="300" />
 
 </details>
 
