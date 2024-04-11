@@ -12,13 +12,13 @@
 - **Easy Data Handle**
   - Truck information, driver details, and item specifics can be easily managed and viewed using the cloud database.
   - Track multiple locks using the mobile app
-<br />
+  <br />
 - **Security and Privacy**
   - Secure Cloud Storage
   - Regular Security Audits
   - Immediate Alerts
   - Protecting Sensitive Information
-<br />
+  <br />
 - **Long Battery Life**
   - The device is equipped with three lithium-ion batteries, providing a total capacity of 9600 mAh
 <br />
