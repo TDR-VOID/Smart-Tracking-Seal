@@ -7,9 +7,12 @@ The "CargoGauard" app was developed using Android Studio. **Firebase Realtime Da
 <details>
 <summary>Physical View of the Device</summary>
 <img src="Screenshots/Device.jpeg" alt="Physical View of the Device" width="300" />
-
 </details>
 
+<details>
+<summary>CargoGuard App Screenshots</summary>
+<img src="Screenshots/Device.jpeg" alt="CargoGuard App Screenshots" width="300" />
+</details>
 
 ## Features
 - **Real-time Location Tracking :** Disconnected place detection
