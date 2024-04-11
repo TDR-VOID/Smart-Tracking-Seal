@@ -1,7 +1,7 @@
 # Smart-Tracking-Seal
 
 ## Overview
-The **Smart Tracking Seal** is an innovative electronic device designed to enhance the efficiency and security of goods transportation in containers. Its physical design incorporates a wire that acts as the seal, offering the benefits of reusability. This device can be easily attached to containers, providing information about the contents and ensuring the integrity of the shipment throughout the journey. With the mobile APP, users can track the real-time location and status of the lock.
+The **Smart Tracking Seal** is an innovative electronic device designed to enhance the efficiency and security of goods transportation in containers. Its physical design incorporates a wire that acts as the seal, offering the benefits of reusability. This device can be easily attached to containers, providing information about the contents and ensuring the integrity of the shipment throughout the journey. With the "CargoGaurad" mobile APP, users can track the real-time location and status of the lock.
 
 The "CargoGauard" app was developed using Android Studio. **Firebase Realtime Database** was used to store data, and **Firebase Authentication** was used for user authentication.
 <details>
