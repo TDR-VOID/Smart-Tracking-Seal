@@ -23,6 +23,7 @@
   - The device is equipped with three lithium-ion batteries, providing a total capacity of 9600 mAh.
   <br />
 - **Support and Maintenance**
+  -rhrthh5h
   -24/7 Technical support
   -Mobile APP updates, continuous improvements and bug fixes
     
