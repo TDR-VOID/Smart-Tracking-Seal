@@ -4,9 +4,14 @@
 
 ## Features
 - **Real-time Location Tracking :** Disconnected place detection
-- **Mobile Application Intergration :** Customized APP
+- **Mobile Application Integration :** Customized APP
 - **Lock State Verification :** SMS notification & APP Notification
-- 
+- **Manage Truck Information:** Track and update truck details remotely
+
+## User Benefits
+- **Easy Data Handle**
+  - wwr
+
 ## Components Used
 
 - Atmega328P Microcontroller.
