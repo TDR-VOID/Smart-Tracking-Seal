@@ -22,8 +22,8 @@
 - **Long Battery Life**
   - The device is equipped with three lithium-ion batteries, providing a total capacity of 9600 mAh.
   <br />
-- **Long Battery Life**
-  - The device is equipped with three lithium-ion batteries, providing a total capacity of 9600 mAh.
+- **Support and Maintenance**
+  - 24/7 Technical support.
   <br />
     
 ## Components Used
